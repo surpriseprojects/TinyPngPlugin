@@ -1,0 +1,62 @@
+[
+    {
+        "preSize": "6.73KB",
+        "md5": "cebfdfd96b51a2bbde7cfa40b7ea2997",
+        "postSize": "3.48KB",
+        "path": "app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "preSize": "4.38KB",
+        "md5": "25ba840f4c50ec9bfc89638553e6037a",
+        "postSize": "2.21KB",
+        "path": "app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "preSize": "10.17KB",
+        "md5": "e2fd4cb6ba8d7a9409fdf125194df16f",
+        "postSize": "4.81KB",
+        "path": "app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "preSize": "6.24KB",
+        "md5": "9d19df6313d4901c9ed895e3346a94d7",
+        "postSize": "3.19KB",
+        "path": "app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "preSize": "14.78KB",
+        "md5": "e0cdd00aa123821d9b109dfa032d36dd",
+        "postSize": "6.51KB",
+        "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "preSize": "8.91KB",
+        "md5": "063f8cb191a32af182c006e8a2e79791",
+        "postSize": "4.28KB",
+        "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "preSize": "4.79KB",
+        "md5": "62cad1e975011dbaa24eba1dc5eae52b",
+        "postSize": "2.83KB",
+        "path": "app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "preSize": "2.89KB",
+        "md5": "f29c8fba32b5f6f09dc3bb5077bf4726",
+        "postSize": "1.61KB",
+        "path": "app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "preSize": "2.72KB",
+        "md5": "aa222e4b55a77a772df659ea32538235",
+        "postSize": "1.79KB",
+        "path": "app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "preSize": "2.01KB",
+        "md5": "aa34c411411d2ca85567f05ce9935644",
+        "postSize": "1.16KB",
+        "path": "app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]
